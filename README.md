@@ -1,4 +1,4 @@
-# 75 Star 50 Fork Paylasacam.
+# Eski botlarımı 75 Star 50 Fork Paylasacam.
 
 # Toprak Guard Bots
 
